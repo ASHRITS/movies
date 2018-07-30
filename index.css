@@ -1,0 +1,33 @@
+body {
+	background-image: url(https://avatars.mds.yandex.net/get-pdb/216365/d3991310-4f09-4235-8591-f2dc0af9751a/orig);
+	background-size: cover;
+}
+
+
+#movies img, #movie img {
+	width: 100%;
+}
+
+@media (min-width: 960px) {
+	#movies .col-md-3 .well{
+	height: 390px;
+}
+
+#movies .col-md-3 img{
+	height: 240px;
+}
+
+}
+
+.text {
+	color: white;
+}
+
+.style {
+
+     text-align: center;
+     color: white;
+     font-size: 1.3rem;
+     margin-top:100px;
+
+}
